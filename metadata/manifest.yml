@@ -1,6 +1,7 @@
 Name: nginx
 Cartridge-Short-Name: NGINX
-Display-Name: Nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server.
+Display-Name: Nginx
+Description: "Nginx is an HTTP and reverse proxy server, as well as a mail proxy server, written by Igor Sysoev."
 Version: "1.7.10"
 Versions: ["1.6.2", "1.7.10", "1.9.4"]
 Website: https://github.com/exileed/openshift-cartridge-nginx
